@@ -12,7 +12,7 @@ This project trains a CNN model to estimate age based on facial features. The mo
 
 ##  Dataset
 - Contains facial images labeled with ages
-- **Download link**: [Age Prediction Dataset]([https://example.com/dataset-link](https://www.kaggle.com/competitions/applications-of-deep-learning-wustl-spring-2024/data)
+- **Download link**: [Dataset](https://www.kaggle.com/competitions/applications-of-deep-learning-wustl-spring-2024/data)
 
 ##  Model Architecture
 Built with **TensorFlow/Keras**, the pipeline includes:
